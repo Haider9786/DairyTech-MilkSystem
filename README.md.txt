@@ -1,6 +1,6 @@
 # DairyTech - Milk Collection Digitalization System
 
-This MERN-stack based web application is my Final Year Project (FYP) designed to digitize the milk collection process in rural areas.
+This MERN-stack based web application is going to be my Final Year Project (FYP) designed to digitize the milk collection process in rural areas.
 
 ## 🌟 Key Features
 - Collectors can log daily milk data (quantity, fat %, rate).
