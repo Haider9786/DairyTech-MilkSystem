@@ -1,0 +1,20 @@
+[
+    {
+        "_id": {
+            "$oid": "66a01f98e178d55b36521c40"
+        },
+        "name": "Muhammad Aslam",
+        "phone_number": "03011234567",
+        "village": "Balkassar",
+        "password": "aslam_farmer"
+    },
+    {
+        "_id": {
+            "$oid": "66a01f98e178d55b36521c41"
+        },
+        "name": "Rashid Mehmood",
+        "phone_number": "03027654321",
+        "village": "Jand Awan",
+        "password": "rashid123"
+    }
+]
