@@ -1,0 +1,12 @@
+[
+  {
+    "_id": { "$oid": "66a9d5b79b1e8d001f452212" },
+    "farmer_id": "687e252560e116db5d6c7f51",
+    "collector_id": "687e25b760e116db5d6c7f56",
+    "date": "2025-07-18",
+    "milk_quantity_ltr": 10,
+    "fat_percentage": 4.5,
+    "rate_per_ltr": 120,
+    "total_payment": 1200
+  }
+]
